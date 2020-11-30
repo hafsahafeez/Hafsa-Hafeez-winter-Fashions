@@ -1,0 +1,213 @@
+
+ body{
+  background: url(images/black-silk-latex-folded-cloth-background-textile_107791-1294.jpg);
+    /* background: url(https://image.shutterstock.com/image-photo/modern-mens-clothing-accessories-260nw-508644517.jpg); */
+    /* background: url(https://img.freepik.com/free-photo/woman-clothing-accessories-pastel-colors_72402-1146.jpg); */
+    /* background:url(images/html.PNG);  */
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* height: 100vh */
+   
+   }
+   #topnav{
+       display:flex;
+       /* background-color: rgba(59, 58, 64, 0.5); */
+       box-shadow: 4px 4px 4px rgba(0,0,0,0.5);
+    }
+   
+ .navbar-brand img{ 
+   width: 120px;
+   height: 50px;
+   padding-left:15px ;
+   } 
+   .navbar .nav-item .nav-link {
+       color: #FCFEFF !important;
+       font-family: Quiksand;
+       font-size: larger;
+       font-weight: bold;
+   }
+.row{    
+    color:#FCFEFF;
+   }
+   #row1{
+        font-family:'Alex Brush', cursive;
+        font-size: 70px;
+        margin-top: 8% !important;
+   } 
+   #row2{
+    font-family:'Alex Brush', cursive;
+    font-size: 40px;
+    margin-top: -2% !important;
+} 
+.row-3{
+    font-size:22px ;
+    font-family: Quiksand;
+}
+#row4 .btn{
+    background-color:#3C3B41;
+    color: #FCFEFF;
+    box-shadow: 4px 4px 4px rgba(58,58,58,0.5);
+    
+}
+
+
+.row-5{
+  
+    font-size:15px ;
+    font-family: Quiksand;
+    /* background-color: rgb(59, 58, 64); */
+    margin-top:14% ;
+    /* margin-left: 80% !important; */
+    color: rgba(240, 176, 13,0.8);
+
+  
+}
+#coloum1{
+    color: rgba(240, 176, 13,0.8);
+    
+    font-size: 40px;
+    font-family: Quiksand;
+    /* margin-top: % !important; */
+
+}
+#contact-fld
+{
+    background-color: rgba(60, 59, 65,0.2);
+    /* height: 80vh; */
+}
+.form-control{
+    background-color: rgba(0, 0, 0,0.3)!important;
+}
+
+.btn-warning{
+    color:black !important;
+    box-shadow: 4px 4px 4px rgb(58,58,58);
+    background-color: rgba(240, 176, 13,0.8);
+}
+.fa {
+    padding: 13px;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color: white;
+    background-color:#3C3B41 ;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      color:rgb(240, 176, 13); 
+  }
+  .dropdown-item:hover{
+      color: black;
+      font-weight: bold;
+     }
+
+    .about-container {
+        background-color: rgba(60, 59, 65,0.2);
+        /* height: 90vh; */
+    } 
+
+    .aboutrow-class1{
+        /* border: 2px solid wheat; */
+        height: 130vh; 
+        margin-bottom: 25% !important;
+        background-color:rgb(60, 59, 65) ;
+           /* background-color: rgba(240, 176, 13,0.7) !important; */
+     
+
+
+    }
+    .about-btn{
+        color: #FCFEFF!important;
+        float: right !important;
+        border: 2px solid #858616 !important;
+    }
+    .col-2-img{
+        width:100% ;
+        height:50px ;
+        /* margin-top: 20% !important; */
+    }
+    .list-group img{
+        width:80px;
+        height: 90px;
+       
+
+    }
+    .list-group-item{
+        display: flex !important;
+        text-decoration: none;
+        color: black;
+    }
+    .list-group-item-text{
+        font-size: 14px;
+        text-decoration: none;
+        color: black !important;
+        margin-left: 5px;
+    }
+.ctn-heading{
+    color: #FCFEFF!important;
+}
+.text-justify{
+    color: #FCFEFF !important;
+    font-family: Quicksand;
+    font-size: large;
+}
+
+.image-fluid{
+    height: 500px !important;
+    width: 100%;
+    
+
+}
+
+.carousel-inner img {
+    width: 105%;
+    height: 600px;
+  }
+ .card-footer{
+     color:black !important;
+ } 
+ .show-more{
+    border: 2px solid #858616 !important;
+    color: #FCFEFF!important;
+   
+ }
+ .show-more:hover{
+     background-color: #FCFEFF!important;
+     color:black !important;
+ }
+ #img3{
+     height: 250px;
+ }
+ #img2{
+    height: 250px;
+    
+
+ }
+ .page-footer{
+     margin-top: 10%!important;
+     background-color: #18171a !important;
+ }
+ .footer-copyright{
+     background-color:rgb(197, 157, 55);
+
+ }
+ .fabody{
+     background-color:none; 
+      margin-top: 10% ;
+ }
+ #abt-ctn{
+     overflow-y: hidden;
+ }
+ 
+
+
+ 
+ 
+    
+
